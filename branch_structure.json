@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-655-prewave-be-059-sign-outbound-webhooks-and-make",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-655-prewave-be-059-sign-outbound-webhooks-and-make": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-655-prewave-be-059-sign-outbound-webhooks-and-make",
+    "origin"
+  ]
+}
